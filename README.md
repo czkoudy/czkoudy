@@ -1,50 +1,66 @@
-Hi 👋 My name is Jakub Koudela
-==============================
+# Hi, I'm Jakub 👋
 
-Full Stack developer with focus on React
-----------------------------------------
+**Senior Frontend Engineer** · React & TypeScript specialist · Full-stack capable
 
-* 🌍  I'm based in UK
-* 🧠  I'm learning React, Redux and everything Javascript
-* 🤝  I'm open to collaborating on React UI library
+Based in **Brno, Czech Republic** · Open to remote opportunities across Europe
 
-### Skills
+---
 
+### What I do
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+I build complex, data-intensive web applications — component libraries, visual editors, real-time dashboards, and the tooling around them. I care as much about architecture and UX as I do about writing clean, well-tested code.
 
+---
 
-### Socials
+### Tech I work with daily
 
-<p align="left"> <a href="https://www.github.com/czkoudy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jakub-koudela" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@czkoudy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+**Frontend**
 
-### Badges
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query%2FTable%2FRouter-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-<b>My GitHub Stats</b>
+**Tooling & Ecosystem**
 
-<a href="http://www.github.com/czkoudy"><img src="https://github-readme-stats.vercel.app/api?username=czkoudy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="czkoudy's GitHub stats" /></a>
+![Nx](https://img.shields.io/badge/Nx_Monorepo-143055?style=flat&logo=nx&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
-<a href="http://www.github.com/czkoudy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=czkoudy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Backend**
 
-<a href="https://github.com/czkoudy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czkoudy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Support Me
+---
 
-<a href="https://www.buymeacoffee.com/czkoudy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### Things I've built
+
+- 🧩 **Shared component library** — React/TypeScript, Monaco Editor + LSP, React Flow custom nodes, TanStack Table, Storybook, internal npm registry
+- 📡 **Real-time network ops platform** — multi-API data aggregation, live bandwidth visualisation, automated device configuration (full-stack solo project)
+- 🌍 **Mobile operator portal** — multi-locale Next.js app, custom design system on top of Material UI, WCAG accessibility
+- 🔄 **AngularJS → React migration** — Broadcom, incremental migration maintaining interoperability across both frameworks
+
+### GitHub Stats
+
+<a href="https://github.com/czkoudy">
+  <img src="https://github-readme-stats.vercel.app/api?username=czkoudy&show_icons=true&count_private=true&title_color=1A56DB&text_color=e2e8f0&icon_color=1A56DB&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jakub's GitHub stats" />
+</a>
+
+<a href="https://github.com/czkoudy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czkoudy&langs_count=8&title_color=1A56DB&text_color=e2e8f0&icon_color=1A56DB&bg_color=0f172a&hide_border=true&layout=compact&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+---
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-koudela)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/czkoudy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jakubk@fastmail.com)
